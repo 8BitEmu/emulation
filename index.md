@@ -1,3 +1,3 @@
 ---
-title: Emulation, Handhelds, Retro Gaming, and more
+Emulation, Handhelds, Retro Gaming, and more
 ---
